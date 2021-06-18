@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-web-page-using-html-css-using-flexbox-and-grid-A_oDMAVeq](https://www.frontendmentor.io/solutions/responsive-web-page-using-html-css-using-flexbox-and-grid-A_oDMAVeq)
+- Live Site URL: [https://saichandra2896.github.io/social-proof-section-master/](https://saichandra2896.github.io/social-proof-section-master/)
 
 ## My process
 
